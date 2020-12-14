@@ -50,4 +50,7 @@ The results of my version are present as follows:
 ## Reference Link
 * https://github.com/thunlp/NRE
 * https://github.com/thunlp/OpenNRE
+* https://github.com/zjunlp/deepke
+* https://github.com/smilelhh/ds_pcnns
+
 
