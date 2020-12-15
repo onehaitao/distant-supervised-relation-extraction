@@ -181,7 +181,6 @@ class NYTCorpus(object):
         """
         filetype:
             train: 加载训练数据
-            dev  : 加载验证数据
             test : 加载测试数据
         """
         if filetype in ['train', 'test']:
