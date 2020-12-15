@@ -39,6 +39,7 @@ The results of my version are present as follows:
 <img src="./pr_cnn.png" alt="pr_cnn" style="zoom:75%;" />
 <img src="./pr_pcnn.png" alt="pr_pcnn" style="zoom:75%;" />
 
+The training log can be seen in `train.log`.
 
 *Note*:
 * Some settings may be different from those mentioned in the paper.
