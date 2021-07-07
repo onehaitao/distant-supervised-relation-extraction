@@ -1,4 +1,8 @@
 # distant-supervised-relation-extraction
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/neural-relation-extraction-with-selective/relationship-extraction-distant-supervised-on)](https://paperswithcode.com/sota/relationship-extraction-distant-supervised-on?p=neural-relation-extraction-with-selective)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/neural-relation-extraction-with-selective/relation-extraction-on-nyt-corpus)](https://paperswithcode.com/sota/relation-extraction-on-nyt-corpus?p=neural-relation-extraction-with-selective)
+
+
 Implementation of [Neural Relation Extraction with Selective Attention over Instances](https://www.aclweb.org/anthology/P16-1200.pdf).
 
 ## Environment Requirements
